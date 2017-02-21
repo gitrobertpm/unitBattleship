@@ -4,7 +4,7 @@ var expect = require("chai").expect;
 
 describe("Mocha", function() {
 	// Text spec (unit test)
-	it("should run out tests using npm", function() {
+	it("should run our tests using npm", function() {
 		expect(true).to.be.ok;
 	});
 });
